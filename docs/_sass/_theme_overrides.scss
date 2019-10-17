@@ -400,3 +400,16 @@ body {
     }
   }
 }
+
+.candidate-container {
+  display: flex;
+  flex-direction: column;
+
+  .candidate-card {
+    display: flex;
+    width: 600px;
+    height: 96px;
+    background-color: grey;
+    margin-bottom: 16px;
+  }
+}
