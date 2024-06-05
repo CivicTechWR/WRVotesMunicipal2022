@@ -21,7 +21,7 @@ To get started locally:
 ### Getting started on OSX
 
 1. Install [homebrew](https://brew.sh/) package manager
-2. Install ruby:
+2. Install ruby (version 3.1):
    ```
    brew install ruby
    ```
