@@ -14,6 +14,7 @@ Dependencies:
 
 To get started locally:
 - Clone the repo: `git clone https://github.com/CivicTechWR/WRVotesMunicipal2022.git`
+- Navigate to the project folder: `cd WRVotesFed2025`
 - Install gems: `bundle`
 - Move into the website directory: `cd docs`
 - Start the local server: `jekyll serve`
@@ -21,7 +22,7 @@ To get started locally:
 ### Getting started on OSX
 
 1. Install [homebrew](https://brew.sh/) package manager
-2. Install ruby:
+2. Install ruby (version 3.1):
    ```
    brew install ruby
    ```
